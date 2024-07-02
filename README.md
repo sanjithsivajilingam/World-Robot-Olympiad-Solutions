@@ -2,6 +2,6 @@
 ## About
 aaa
 ## Visuals
-| Home Page using Oracle Apex  |
+| Elementary Robot Build |
 | ------------- |
-| ![medical-clinic-slide1](https://github.com/sanjithsivajilingam/Medical-Clinic-DBMS/assets/100434687/e5673acf-491c-4ccb-971f-6a37a9185f4a)  |
+| ![Untitled](https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/b1207083-64fd-4eb6-aeb8-85f7397550f4)  |
