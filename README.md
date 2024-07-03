@@ -1,6 +1,6 @@
 # World-Robot-Olympiad-Solutions
 ## About
-This repository documents our team's efforts in enhancing the 2016 World Robot Olympiad (WRO) competition challenges, spanning both elementary and senior difficulty levels. The competition theme, focused on garbage disposal scenarios, required us to develop robust functionalities in Python and Scratch for LEGO Mindstorms EV3 robots. Our approach prioritized clarity, efficiency, and scalability, ensuring our solutions serve as a solid foundation for future teams tackling similar challenges in robotics education. Demonstrations of the various missions cannot be displayed due to a file capacity limit. Models and builds of the each missions robot are shown.
+This repository documents our team's efforts in enhancing the 2016 World Robot Olympiad (WRO) competition challenges, spanning both elementary and senior difficulty levels. The competition theme, focused on garbage disposal scenarios, required us to develop robust functionalities in Python and Scratch for LEGO Mindstorms EV3 robots. Our approach prioritized clarity, efficiency, and scalability, ensuring our solutions serve as a solid foundation for future teams tackling similar challenges in robotics education. Complete Demonstrations of the various missions cannot be displayed due to a file capacity limit. Models, builds and a short demo of each mission is shown below.
 
 ## Visuals
 ### Elementary Mission
