@@ -18,4 +18,4 @@ This repository documents our team's efforts in enhancing the 2016 World Robot O
 | <img src="https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/0b1972b4-8d28-484b-bdd4-005b2776dc1e" width="480" height="375"> | <img src="https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/8996463c-1e43-4a84-a5e8-0c7196077d89" width="480" height="430"> |
 
 <p align="center"><strong>Demonstration</strong></p>
-<p align="center"> <img src="![micropython5finalgif](https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/d535cf6a-9f93-4066-97ec-91806f48a555) " ></p>
+<p align="center"> <img src="https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/b49df07e-1812-4297-b3b3-a05722ce5c3a" ></p>
