@@ -8,6 +8,10 @@ This repository documents our team's efforts in enhancing the 2016 World Robot O
 | ------------- | ------------- |
 | <img src="https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/09b40acc-ace6-4ce8-aeba-4d15bf7c7995"> | <img src="https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/b1207083-64fd-4eb6-aeb8-85f7397550f4" > |
 
+<p align="center"><strong>Demonstration</strong></p>
+<p align="center"> <img src="https://github.com/sanjithsivajilingam/World-Robot-Olympiad-Solutions/assets/100434687/2c0d2721-3be6-4556-8e55-90767314766c" ></p>
+
+
 ### Senior Mission
 | Build Model | Robot Build |
 | ------------- | ------------- |
